@@ -1,0 +1,16 @@
+.chat {
+    margin-top: 0;
+}
+
+.chat-room {
+    margin-top: 1em;
+}
+
+.panel-messages, .panel-users {
+    height: 400px;
+}
+
+#chat-messages {
+    min-height: 400px;
+    overflow-y: scroll;
+}
